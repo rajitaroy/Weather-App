@@ -5,13 +5,9 @@
 
 ## Steps to run the code:  
 
-`npm create react-app weather-app`  
+`npm install`  
 
 `npm start`  
-
-Copy the code from `App.js` and `index.css` files.  
-
-Delete the files not present in the files.  
 
 Go to `https://openweathermap.org/api` , create an account. Generate a new API, name it "WeatherApp" and copy the API key.  
 
